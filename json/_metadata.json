@@ -3,7 +3,7 @@
   "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
   "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/0.jpg",
   "edition": 1,
-  "date": 1772364403999,
+  "date": 1772369540999,
   "attributes": [
     {
       "trait_type": "current_nft",
@@ -23,7 +23,7 @@
   "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
   "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/1.jpg",
   "edition": 2,
-  "date": 1772364403999,
+  "date": 1772369540999,
   "attributes": [
     {
       "trait_type": "current_nft",
@@ -43,11 +43,951 @@
   "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
   "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/2.jpg",
   "edition": 3,
-  "date": 1772364404999,
+  "date": 1772369541999,
   "attributes": [
     {
       "trait_type": "current_nft",
       "value": "3"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #4",
+  "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/3.jpg",
+  "edition": 4,
+  "date": 1772369541999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "4"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #5",
+  "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/4.jpg",
+  "edition": 5,
+  "date": 1772369541999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "5"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #6",
+  "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/5.jpg",
+  "edition": 6,
+  "date": 1772369542999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "6"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #7",
+  "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/6.jpg",
+  "edition": 7,
+  "date": 1772369542999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "7"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #8",
+  "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/7.jpg",
+  "edition": 8,
+  "date": 1772369542999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "8"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #9",
+  "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/8.jpg",
+  "edition": 9,
+  "date": 1772369542999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "9"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #10",
+  "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/9.jpg",
+  "edition": 10,
+  "date": 1772369543999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "10"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #11",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/10.jpg",
+  "edition": 11,
+  "date": 1772369543999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "11"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #12",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/11.jpg",
+  "edition": 12,
+  "date": 1772369543999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "12"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #13",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/12.jpg",
+  "edition": 13,
+  "date": 1772369543999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "13"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #14",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/13.jpg",
+  "edition": 14,
+  "date": 1772369544999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "14"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #15",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/14.jpg",
+  "edition": 15,
+  "date": 1772369544999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "15"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #16",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/15.jpg",
+  "edition": 16,
+  "date": 1772369544999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "16"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #17",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/16.jpg",
+  "edition": 17,
+  "date": 1772369544999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "17"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #18",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/17.jpg",
+  "edition": 18,
+  "date": 1772369545999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "18"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #19",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/18.jpg",
+  "edition": 19,
+  "date": 1772369545999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "19"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #20",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/19.jpg",
+  "edition": 20,
+  "date": 1772369545999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "20"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #21",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/20.jpg",
+  "edition": 21,
+  "date": 1772369546999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "21"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #22",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/21.jpg",
+  "edition": 22,
+  "date": 1772369546999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "22"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #23",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/22.jpg",
+  "edition": 23,
+  "date": 1772369546999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "23"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #24",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/23.jpg",
+  "edition": 24,
+  "date": 1772369546999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "24"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #25",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/24.jpg",
+  "edition": 25,
+  "date": 1772369547999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "25"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #26",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/25.jpg",
+  "edition": 26,
+  "date": 1772369547999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "26"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #27",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/26.jpg",
+  "edition": 27,
+  "date": 1772369547999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "27"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #28",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/27.jpg",
+  "edition": 28,
+  "date": 1772369547999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "28"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #29",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/28.jpg",
+  "edition": 29,
+  "date": 1772369548999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "29"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #30",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/29.jpg",
+  "edition": 30,
+  "date": 1772369548999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "30"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #31",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/30.jpg",
+  "edition": 31,
+  "date": 1772369548999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "31"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #32",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/31.jpg",
+  "edition": 32,
+  "date": 1772369548999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "32"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #33",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/32.jpg",
+  "edition": 33,
+  "date": 1772369549999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "33"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #34",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/33.jpg",
+  "edition": 34,
+  "date": 1772369549999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "34"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #35",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/34.jpg",
+  "edition": 35,
+  "date": 1772369549999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "35"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #36",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/35.jpg",
+  "edition": 36,
+  "date": 1772369549999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "36"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #37",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/36.jpg",
+  "edition": 37,
+  "date": 1772369550999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "37"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #38",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/37.jpg",
+  "edition": 38,
+  "date": 1772369550999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "38"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #39",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/38.jpg",
+  "edition": 39,
+  "date": 1772369550999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "39"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #40",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/39.jpg",
+  "edition": 40,
+  "date": 1772369550999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "40"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #41",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/40.jpg",
+  "edition": 41,
+  "date": 1772369551999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "41"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #42",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/41.jpg",
+  "edition": 42,
+  "date": 1772369551999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "42"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #43",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/42.jpg",
+  "edition": 43,
+  "date": 1772369551999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "43"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #44",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/43.jpg",
+  "edition": 44,
+  "date": 1772369551999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "44"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #45",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/44.jpg",
+  "edition": 45,
+  "date": 1772369552999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "45"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #46",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/45.jpg",
+  "edition": 46,
+  "date": 1772369552999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "46"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #47",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/46.jpg",
+  "edition": 47,
+  "date": 1772369552999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "47"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #48",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/47.jpg",
+  "edition": 48,
+  "date": 1772369552999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "48"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #49",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/48.jpg",
+  "edition": 49,
+  "date": 1772369553999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "49"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "NFT Black Fantasi #50",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/49.jpg",
+  "edition": 50,
+  "date": 1772369553999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "50"
     }
   ],
   "buttons": [

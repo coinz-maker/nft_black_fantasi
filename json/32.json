@@ -1,0 +1,20 @@
+{
+  "name": "NFT Black Fantasi #33",
+  "description": "Коллекционная NFT в двух экземплярах. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/32.jpg",
+  "edition": 33,
+  "date": 1772369549999,
+  "attributes": [
+    {
+      "trait_type": "current_nft",
+      "value": "33"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

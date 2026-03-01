@@ -1,13 +1,13 @@
 {
-  "name": "NFT Black Fantasi #1",
+  "name": "NFT Black Fantasi #4",
   "description": "Коллекционная NFT в единственном экземпляре. Отностися к тематической лимитированной коллекции NFT в стиле Black Fantasi от ревардного токена $HMDR.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/0.jpg",
-  "edition": 1,
-  "date": 1772369540999,
+  "image": "https://raw.githubusercontent.com/coinz-maker/nft_black_fantasi/refs/heads/main/imgs/3.jpg",
+  "edition": 4,
+  "date": 1772369541999,
   "attributes": [
     {
       "trait_type": "current_nft",
-      "value": "1"
+      "value": "4"
     }
   ],
   "buttons": [
